@@ -6,7 +6,7 @@ toc: true
 
 ## Introduction
 
-My name is Abel G N and I am a graduate in Business Administration (International Business) with great interest in data analytics, business intelligence and decision-oriented reporting. My academic experience has taught me the principles of business functions and my practical experience has demonstrated me that data and organized analysis can enhance decisions and outcomes.
+My name is Abel George Nibu and I am a graduate in Business Administration (International Business) with great interest in data analytics, business intelligence and decision-oriented reporting. My academic experience has taught me the principles of business functions and my practical experience has demonstrated me that data and organized analysis can enhance decisions and outcomes.
 
 ::: {.profile-card}
 ## Academic background

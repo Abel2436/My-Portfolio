@@ -1,5 +1,5 @@
 ---
-title: "Abel G N"
+title: "Abel George Nibu"
 subtitle: "BBA in International Business | Data Analytics | Business Intelligence"
 image: images/profile.jpg
 about:
@@ -20,7 +20,7 @@ page-layout: full
 ---
 
 ::: {.hero-intro}
-My name is Abel G N and I am a graduate in Business Administration with a major in International Business as well as an emerging interest in data analytics, reporting and business intelligence. My educational and internship opportunities have enhanced my skills of relating business knowledge with data-driven decision-making.
+My name is Abel George Nibu and I am a graduate in Business Administration with a major in International Business as well as an emerging interest in data analytics, reporting and business intelligence. My educational and internship opportunities have enhanced my skills of relating business knowledge with data-driven decision-making.
 :::
 
 ::: {.callout-important appearance="simple"}

@@ -1,7 +1,7 @@
 ---
 title: "Client Portfolio and Sales Insights Dashboard"
 description: "A portfolio-style analytics project using synthetic client data to track portfolio value, sales follow-ups, engagement, and review priorities through executable Python code."
-author: "Abel G N"
+author: "Abel George Nibu"
 date: "2025-03-25"
 image: ../../images/project-dashboard.jpg
 categories:

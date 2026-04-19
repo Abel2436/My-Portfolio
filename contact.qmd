@@ -18,7 +18,7 @@ Replace the placeholder details below with your real contact links, email addres
 
 | Contact Method | Details |
 |---|---|
-| Full Name | Abel G N |
+| Full Name | Abel George Nibu |
 | Email | abel.georgenibu2@mail.dcu.ie |
 | LinkedIn | https://www.linkedin.com/in/your-linkedin-profile |
 | GitHub | https://github.com/your-username |
