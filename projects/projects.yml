@@ -1,0 +1,22 @@
+- title: "Analyzing Financial Performance: A Comprehensive Study of ITC"
+  description: "A financial analysis project examining comparative statements, common-size statements, and balance sheet insights for ITC for the 2020–2021 financial year."
+  author: "Abel G N"
+  date: "2025-03-15"
+  image: "../images/project-itc.jpg"
+  categories:
+    - Financial Analysis
+    - Business Analytics
+    - Python
+  path: "list/financial-performance-itc.qmd"
+
+- title: "Client Portfolio and Sales Insights Dashboard"
+  description: "A business analytics project that explores client portfolio trends, sales follow-ups, and reporting insights inspired by financial services workflow and dashboard thinking."
+  author: "Abel G N"
+  date: "2025-03-25"
+  image: "../images/project-dashboard.jpg"
+  categories:
+    - Data Analytics
+    - Business Intelligence
+    - Dashboard
+    - Python
+  path: "list/client-portfolio-dashboard.qmd"

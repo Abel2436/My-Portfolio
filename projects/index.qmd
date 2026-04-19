@@ -1,0 +1,48 @@
+---
+title: "Projects"
+page-layout: full
+listing:
+  - id: project-listing
+    contents: projects.yml
+    type: grid
+    sort: "date desc"
+    categories: true
+    filter-ui: true
+    sort-ui: true
+    fields: [image, title, description, date, categories]
+---
+
+::: {.hero-intro}
+This page highlights selected academic and practical projects that reflect my growing interest in **data analytics**, **business intelligence**, **financial analysis**, and **decision-focused reporting**.
+:::
+
+::: {.callout-note}
+## About these projects
+
+Each project page includes a clear problem statement, approach, tools used, insights, and **active executable Python code** in Quarto. This is important because the assignment requires project pages to contain real `{python}` code chunks rather than screenshots or static code blocks.
+:::
+
+## Featured project work
+
+Below is a collection of projects that demonstrate my ability to combine **business understanding**, **analytical thinking**, and **digital tools** to communicate useful insights.
+
+## Project categories
+
+You can use the filters above to browse projects by theme, such as:
+
+- Financial Analysis
+- Data Analytics
+- Business Intelligence
+- Dashboards
+- Reporting
+
+::: {.callout-tip}
+## What these projects show
+
+These projects reflect my development in:
+
+- structuring business problems clearly
+- using data to support conclusions
+- presenting outputs in a professional format
+- building confidence with analytics tools and Python workflows
+:::

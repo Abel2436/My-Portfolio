@@ -1,0 +1,117 @@
+---
+title: "Reflection"
+page-layout: article
+toc: true
+---
+
+## Introduction
+
+The creation of this ePortfolio has been a valuable learning experience as it made me learn to integrate technical tools, professional presentation, and self-reflection in one project. Initially, I imagined the task as primarily a webpage. Later on, I realized that it was also the matter of establishing a professional identity on the Web and demonstrating that I continued to develop in the spheres of business, analytics, and online communication.
+
+::: {.callout-note}
+## Why this project mattered to me
+
+This portfolio allowed me to get beyond handing in coursework to earn marks. It made me ponder on how to introduce myself to the professional world, how to structure information in an understandable way, and how to utilize technical tools in a meaningful and useful method.
+
+:::
+
+## What I learned
+
+### 1. Learning Quarto for structured web publishing
+
+One of the most valuable parts of this assignment was learning how Quarto can be used to create a complete website from simple `.qmd` files. I learned how a site is built through:
+
+- page structure
+- YAML configuration
+- navigation menus
+- themes and styling
+- rendered output for deployment
+
+My involvement with web publishing tools had been very minimal prior to this project. In doing so, I learned that Quarto can be used to create not only reports and notebooks but also to create a professional portfolio where text, code, media, and design are all housed in a single location.
+
+### 2. Understanding Git and version control
+
+Another major lesson was the importance of **Git** and **GitHub**. Instead of uploading files manually, I learned how version control supports better project management through:
+
+- tracking changes
+- organizing work step by step
+- writing meaningful commit messages
+- reducing the risk of losing progress
+
+This gave me a better understanding of how professional projects are managed and how developers maintain structured workflows.
+
+### 3. Improving my confidence with analytics and Python
+
+My background has already provided me with experience with analytics tools like Excel, Tableau, Power BI, and SQL, but this portfolio helped me take that experience in a more technical direction by providing project pages with executable Python code. This site got me to reflect on the fact that analytics are not just about tools, but also about the clarity of the insights that are conveyed.
+
+### 4. Combining business knowledge with digital skills
+
+Being a student of Business Administration in International Business, I have learned the field of financial management, managerial economics, accounting, marketing and business analytics. This task allowed me to bridge that gap between the scholarly background and the real digital skills. I started to understand how business knowledge and data presentation can be collaborative.
+
+## Challenges I faced
+
+Every meaningful project includes some challenges, and this one was no different.
+
+### Folder structure and file organization
+
+At first, it was easy to underestimate how important correct file names and folder structure are. I learned that small issues such as incorrect folder names, broken paths, or missing assets can affect the whole site.
+
+### Styling and design consistency
+
+Customizing the theme using SCSS was another challenge. It required more attention than simply selecting a template. I had to think about colors, typography, spacing, and how the site should feel professional rather than default.
+
+### Thinking beyond minimum requirements
+
+A further challenge was moving from “just completing the task” to building something polished. The rubric made it clear that strong work should not only function, but also communicate professionalism, reflection, and purpose.
+
+::: {.callout-important}
+## A key lesson
+
+I learned that a professional portfolio is not just a collection of pages. It is a carefully structured presentation of identity, skills, evidence, and goals.
+:::
+
+## Skills I strengthened
+
+| Skill area | What I improved |
+|---|---|
+| Quarto | Building pages, configuring site structure, rendering content |
+| Git and GitHub | Version control, commit workflow, deployment awareness |
+| Web design | Layout, SCSS customization, theme integration, visual consistency |
+| Professional writing | Clear tone, structured presentation, audience awareness |
+| Analytical communication | Explaining projects, presenting insights, linking tools to outcomes |
+
+## How this connects to my past experience
+
+The skills of documentation, analysis, reporting, and professional communication have already been developed because of my academic background and the experiences of my internship. During my internships, I worked in environments where accuracy, follow-up, and organized workflows were important. This portfolio extended those habits into a digital format.
+
+For example:
+
+- my work in financial services strengthened my understanding of accuracy and client-focused processes
+- my project internship developed my teamwork, reporting, and documentation skills
+- this ePortfolio helped me bring those experiences together into one professional platform
+
+## What I would improve next
+
+This portfolio is an important step, but it is also part of a longer journey. Going forward, I would like to improve it further by:
+
+- adding more detailed analytics projects
+- creating richer visualizations and interactive dashboards
+- expanding my use of Python for business analysis
+- refining the design and branding even more
+- continuing to update the site as I gain new skills and experience
+
+### My next development goals
+
+- [x] Build a professional online presence
+- [x] Present my academic and internship experience clearly
+- [x] Learn the basics of Quarto and Git-based deployment
+- [ ] Add more advanced Python and dashboard projects
+- [ ] Strengthen my personal brand through better design and storytelling
+
+## Final reflection
+
+In general, this project made me realize that professional development nowadays is not only what you know, but also how you can present it. This ePortfolio has enabled me to look back at how I have advanced in business studies, analytics, digital tools, and professional communications. It also made me think hard about the way I will go in the future.
+
+This portfolio is more than a module requirement to me now. It is also the start of a career platform that I can build on as I advance in analytics, business intelligence, and making decisions based on data.[^reflection]
+
+[^reflection]: This reflection is based on my learning through building the portfolio, organizing content, and presenting my academic and practical development in a professional format.

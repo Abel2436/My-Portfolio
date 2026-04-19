@@ -1,0 +1,113 @@
+---
+title: "About Me"
+page-layout: article
+toc: true
+---
+
+## Introduction
+
+My name is Abel G N and I am a graduate in Business Administration (International Business) with great interest in data analytics, business intelligence and decision-oriented reporting. My academic experience has taught me the principles of business functions and my practical experience has demonstrated me that data and organized analysis can enhance decisions and outcomes.
+
+::: {.profile-card}
+## Academic background
+
+I completed my **Bachelor of Business Administration in International Business** at **Karunya Institute of Technology and Sciences**, Coimbatore. My coursework included areas such as:
+
+- Business Statistics with R
+- Principles of Marketing
+- Financial Management
+- Managerial Economics
+- Cost Accounting
+- E-Banking
+- Income Tax
+- Indirect Tax
+- Application of Analytics in Business
+
+Before that, I completed my school education in **Commerce and IP** at **Bethany Academy**, which gave me an early foundation in accounting, economics, and business studies.
+:::
+
+## Experience and exposure
+
+My internships helped me move from classroom learning to practical application.
+
+### Geojit Financial Services Limited
+
+At Geojit Financial Services, I supported operational and client-facing tasks such as:
+
+- KYC documentation and account verification
+- assisting with sales leads and follow-ups
+- helping monitor client portfolios
+- supporting account opening procedures
+- responding to client queries related to trading and investment products
+
+This experience improved my understanding of financial services, compliance processes, and customer support in a professional environment.
+
+### Ennovations Techserv Pvt Ltd
+
+At Ennovations Techserv, I contributed to project coordination and data-related tasks, including:
+
+- supporting the rollout of Project Helios
+- contributing to data analysis and reporting
+- improving coordination within a cross-functional team
+- helping streamline project processes
+- participating in problem-solving and documentation
+
+This internship strengthened my teamwork, accountability, and reporting skills while giving me exposure to project-based work.
+
+## Skills and tools
+
+| Category | Details |
+|---|---|
+| Data and BI tools | Tableau, Power BI, Microsoft Excel |
+| Technical skills | Database Management, Data Analysis, Data Visualization, Business Intelligence |
+| Certifications | Google Data Analytics, Google Business Intelligence, SQL and Relational Databases, MS Excel at Work |
+| Professional strengths | Communication, documentation, teamwork, problem solving |
+
+## A simple view of my journey
+
+```{mermaid}
+flowchart LR
+    A[Commerce foundation] --> B[BBA in International Business]
+    B --> C[Financial services internship]
+    B --> D[Project operations internship]
+    C --> E[Interest in analysis and reporting]
+    D --> E
+    E --> F[Career goal in analytics and business intelligence]
+```
+
+## What motivates me
+
+I am motivated by work that turns information into useful action. I enjoy learning how organizations operate, identifying patterns in data, and presenting findings in a way that supports planning and decision-making.
+
+::: {.callout-tip}
+
+## Why this portfolio matters
+
+This portfolio is more than a course assignment. It represents my effort to build a professional digital presence that shows my skills, my growth, and the kind of value I hope to bring to future opportunities.
+:::
+
+## Career goals
+
+My long-term goal is to work in a role related to:
+
+- business analytics
+- reporting and dashboarding
+- business intelligence
+- operations or strategy support
+- data-informed decision-making
+
+I want to continue improving my technical skills, especially in analytics tools and coding, while strengthening the business perspective needed to apply them effectively.
+
+## Personal interests
+
+Outside academics and work, I enjoy:
+
+- Football
+- Gaming
+- Walking
+
+These interests help me stay balanced, active, and connected to teamwork and discipline.
+
+## Closing note
+
+I see myself as someone who is still growing, but growing with purpose. All my academic work, internship and projects have assisted me to become more assured when integrating business knowledge, professional responsibility and analytical thinking in a clear career path.

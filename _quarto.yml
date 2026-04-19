@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Abel | ePortfolio"
+  favicon: images/favicon.png
+
+  navbar:
+    logo: images/logo.png
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Projects
+        href: projects/index.qmd
+      - text: Reflection
+        href: reflection.qmd
+      - text: Contact
+        href: contact.qmd
+      - text: CV
+        href: cv/abel-gn-cv.pdf
+        target: _blank
+    right:
+      - icon: github
+        href: https://github.com/Abel2436/
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/your-linkedin-profile
+        target: _blank
+      - icon: envelope
+        href: mailto:abel.georgenibu2@mail.dcu.ie
+
+  page-footer:
+    left: "© 2025 Abel"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme:
+      - lux
+      - styles.scss
+    toc: true
+    page-layout: full
+    smooth-scroll: true
+
+execute:
+  freeze: auto

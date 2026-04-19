@@ -1,0 +1,506 @@
+[
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "The creation of this ePortfolio has been a valuable learning experience as it made me learn to integrate technical tools, professional presentation, and self-reflection in one project. Initially, I imagined the task as primarily a webpage. Later on, I realized that it was also the matter of establishing a professional identity on the Web and demonstrating that I continued to develop in the spheres of business, analytics, and online communication.\n\n\n\n\n\n\nNoteWhy this project mattered to me\n\n\n\nThis portfolio allowed me to get beyond handing in coursework to earn marks. It made me ponder on how to introduce myself to the professional world, how to structure information in an understandable way, and how to utilize technical tools in a meaningful and useful method."
+  },
+  {
+    "objectID": "reflection.html#introduction",
+    "href": "reflection.html#introduction",
+    "title": "Reflection",
+    "section": "",
+    "text": "The creation of this ePortfolio has been a valuable learning experience as it made me learn to integrate technical tools, professional presentation, and self-reflection in one project. Initially, I imagined the task as primarily a webpage. Later on, I realized that it was also the matter of establishing a professional identity on the Web and demonstrating that I continued to develop in the spheres of business, analytics, and online communication.\n\n\n\n\n\n\nNoteWhy this project mattered to me\n\n\n\nThis portfolio allowed me to get beyond handing in coursework to earn marks. It made me ponder on how to introduce myself to the professional world, how to structure information in an understandable way, and how to utilize technical tools in a meaningful and useful method."
+  },
+  {
+    "objectID": "reflection.html#what-i-learned",
+    "href": "reflection.html#what-i-learned",
+    "title": "Reflection",
+    "section": "What I learned",
+    "text": "What I learned\n\n1. Learning Quarto for structured web publishing\nOne of the most valuable parts of this assignment was learning how Quarto can be used to create a complete website from simple .qmd files. I learned how a site is built through:\n\npage structure\nYAML configuration\nnavigation menus\nthemes and styling\nrendered output for deployment\n\nMy involvement with web publishing tools had been very minimal prior to this project. In doing so, I learned that Quarto can be used to create not only reports and notebooks but also to create a professional portfolio where text, code, media, and design are all housed in a single location.\n\n\n2. Understanding Git and version control\nAnother major lesson was the importance of Git and GitHub. Instead of uploading files manually, I learned how version control supports better project management through:\n\ntracking changes\norganizing work step by step\nwriting meaningful commit messages\nreducing the risk of losing progress\n\nThis gave me a better understanding of how professional projects are managed and how developers maintain structured workflows.\n\n\n3. Improving my confidence with analytics and Python\nMy background has already provided me with experience with analytics tools like Excel, Tableau, Power BI, and SQL, but this portfolio helped me take that experience in a more technical direction by providing project pages with executable Python code. This site got me to reflect on the fact that analytics are not just about tools, but also about the clarity of the insights that are conveyed.\n\n\n4. Combining business knowledge with digital skills\nBeing a student of Business Administration in International Business, I have learned the field of financial management, managerial economics, accounting, marketing and business analytics. This task allowed me to bridge that gap between the scholarly background and the real digital skills. I started to understand how business knowledge and data presentation can be collaborative."
+  },
+  {
+    "objectID": "reflection.html#challenges-i-faced",
+    "href": "reflection.html#challenges-i-faced",
+    "title": "Reflection",
+    "section": "Challenges I faced",
+    "text": "Challenges I faced\nEvery meaningful project includes some challenges, and this one was no different.\n\nFolder structure and file organization\nAt first, it was easy to underestimate how important correct file names and folder structure are. I learned that small issues such as incorrect folder names, broken paths, or missing assets can affect the whole site.\n\n\nStyling and design consistency\nCustomizing the theme using SCSS was another challenge. It required more attention than simply selecting a template. I had to think about colors, typography, spacing, and how the site should feel professional rather than default.\n\n\nThinking beyond minimum requirements\nA further challenge was moving from “just completing the task” to building something polished. The rubric made it clear that strong work should not only function, but also communicate professionalism, reflection, and purpose.\n\n\n\n\n\n\nImportantA key lesson\n\n\n\nI learned that a professional portfolio is not just a collection of pages. It is a carefully structured presentation of identity, skills, evidence, and goals."
+  },
+  {
+    "objectID": "reflection.html#skills-i-strengthened",
+    "href": "reflection.html#skills-i-strengthened",
+    "title": "Reflection",
+    "section": "Skills I strengthened",
+    "text": "Skills I strengthened\n\n\n\n\n\n\n\nSkill area\nWhat I improved\n\n\n\n\nQuarto\nBuilding pages, configuring site structure, rendering content\n\n\nGit and GitHub\nVersion control, commit workflow, deployment awareness\n\n\nWeb design\nLayout, SCSS customization, theme integration, visual consistency\n\n\nProfessional writing\nClear tone, structured presentation, audience awareness\n\n\nAnalytical communication\nExplaining projects, presenting insights, linking tools to outcomes"
+  },
+  {
+    "objectID": "reflection.html#how-this-connects-to-my-past-experience",
+    "href": "reflection.html#how-this-connects-to-my-past-experience",
+    "title": "Reflection",
+    "section": "How this connects to my past experience",
+    "text": "How this connects to my past experience\nThe skills of documentation, analysis, reporting, and professional communication have already been developed because of my academic background and the experiences of my internship. During my internships, I worked in environments where accuracy, follow-up, and organized workflows were important. This portfolio extended those habits into a digital format.\nFor example:\n\nmy work in financial services strengthened my understanding of accuracy and client-focused processes\nmy project internship developed my teamwork, reporting, and documentation skills\nthis ePortfolio helped me bring those experiences together into one professional platform"
+  },
+  {
+    "objectID": "reflection.html#what-i-would-improve-next",
+    "href": "reflection.html#what-i-would-improve-next",
+    "title": "Reflection",
+    "section": "What I would improve next",
+    "text": "What I would improve next\nThis portfolio is an important step, but it is also part of a longer journey. Going forward, I would like to improve it further by:\n\nadding more detailed analytics projects\ncreating richer visualizations and interactive dashboards\nexpanding my use of Python for business analysis\nrefining the design and branding even more\ncontinuing to update the site as I gain new skills and experience\n\n\nMy next development goals\n\nBuild a professional online presence\nPresent my academic and internship experience clearly\nLearn the basics of Quarto and Git-based deployment\nAdd more advanced Python and dashboard projects\nStrengthen my personal brand through better design and storytelling"
+  },
+  {
+    "objectID": "reflection.html#final-reflection",
+    "href": "reflection.html#final-reflection",
+    "title": "Reflection",
+    "section": "Final reflection",
+    "text": "Final reflection\nIn general, this project made me realize that professional development nowadays is not only what you know, but also how you can present it. This ePortfolio has enabled me to look back at how I have advanced in business studies, analytics, digital tools, and professional communications. It also made me think hard about the way I will go in the future.\nThis portfolio is more than a module requirement to me now. It is also the start of a career platform that I can build on as I advance in analytics, business intelligence, and making decisions based on data.1"
+  },
+  {
+    "objectID": "reflection.html#footnotes",
+    "href": "reflection.html#footnotes",
+    "title": "Reflection",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis reflection is based on my learning through building the portfolio, organizing content, and presenting my academic and practical development in a professional format.↩︎"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html",
+    "href": "projects/list/client-portfolio-dashboard.html",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "",
+    "text": "This project presents a business intelligence style dashboard for client portfolio monitoring, lead follow-ups, and engagement tracking. It is inspired by workflow areas such as client support, portfolio monitoring, and follow-up activity, but it uses synthetic data for confidentiality and portfolio safety.\n\n\n\n\n\n\nNoteData note\n\n\n\nThe client dataset in this project is synthetically generated. It does not represent real clients, real account values, or real company records. The purpose is to demonstrate analytical thinking, reporting structure, and Python-based dashboard development.1"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#project-overview",
+    "href": "projects/list/client-portfolio-dashboard.html#project-overview",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "",
+    "text": "This project presents a business intelligence style dashboard for client portfolio monitoring, lead follow-ups, and engagement tracking. It is inspired by workflow areas such as client support, portfolio monitoring, and follow-up activity, but it uses synthetic data for confidentiality and portfolio safety.\n\n\n\n\n\n\nNoteData note\n\n\n\nThe client dataset in this project is synthetically generated. It does not represent real clients, real account values, or real company records. The purpose is to demonstrate analytical thinking, reporting structure, and Python-based dashboard development.1"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#objectives",
+    "href": "projects/list/client-portfolio-dashboard.html#objectives",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Objectives",
+    "text": "Objectives\nThis dashboard project aims to:\n\nsummarize key portfolio and follow-up metrics\nanalyze client segmentation\ntrack lead and conversion trends over time\nidentify accounts that need priority follow-up\npresent insights in a clear and professional format"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#python-setup",
+    "href": "projects/list/client-portfolio-dashboard.html#python-setup",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Python setup",
+    "text": "Python setup\n\n\nCode\nimport numpy as np\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\nplt.rcParams[\"figure.figsize\"] = (10, 6)\npd.set_option(\"display.float_format\", lambda x: f\"{x:,.2f}\")\nnp.random.seed(38)"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#create-a-synthetic-client-portfolio-dataset",
+    "href": "projects/list/client-portfolio-dashboard.html#create-a-synthetic-client-portfolio-dataset",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Create a synthetic client portfolio dataset",
+    "text": "Create a synthetic client portfolio dataset\n\n\nCode\nn_clients = 120\n\nclient_ids = [f\"C{str(i).zfill(3)}\" for i in range(1, n_clients + 1)]\nsegments = np.random.choice([\"Retail\", \"HNI\", \"Corporate\"], size=n_clients, p=[0.60, 0.25, 0.15])\nrisk_profile = np.random.choice([\"Low\", \"Moderate\", \"High\"], size=n_clients, p=[0.35, 0.45, 0.20])\nregion = np.random.choice([\"South\", \"West\", \"North\", \"East\"], size=n_clients, p=[0.35, 0.25, 0.20, 0.20])\nproduct_type = np.random.choice(\n    [\"Equity\", \"Mutual Fund\", \"Fixed Income\", \"Hybrid Portfolio\"],\n    size=n_clients,\n    p=[0.30, 0.30, 0.20, 0.20]\n)\n\naum = []\nfor segment in segments:\n    if segment == \"Retail\":\n        aum.append(np.random.randint(80_000, 500_000))\n    elif segment == \"HNI\":\n        aum.append(np.random.randint(600_000, 2_500_000))\n    else:\n        aum.append(np.random.randint(2_000_000, 8_000_000))\n\nmonthly_revenue = [round(value * np.random.uniform(0.004, 0.012), 2) for value in aum]\nsatisfaction = np.round(np.random.uniform(3.2, 4.9, n_clients), 2)\n\ntoday = pd.Timestamp(\"2025-03-31\")\ndays_since_contact = np.random.randint(3, 95, n_clients)\nlast_contact_date = today - pd.to_timedelta(days_since_contact, unit=\"D\")\nnext_review_date = last_contact_date + pd.to_timedelta(np.random.randint(20, 75, n_clients), unit=\"D\")\n\nclient_df = pd.DataFrame({\n    \"Client ID\": client_ids,\n    \"Segment\": segments,\n    \"Risk Profile\": risk_profile,\n    \"Region\": region,\n    \"Product Type\": product_type,\n    \"AUM\": aum,\n    \"Estimated Monthly Revenue\": monthly_revenue,\n    \"Satisfaction Score\": satisfaction,\n    \"Days Since Contact\": days_since_contact,\n    \"Last Contact Date\": last_contact_date,\n    \"Next Review Date\": next_review_date\n})\n\nclient_df[\"Follow-Up Status\"] = np.where(\n    client_df[\"Days Since Contact\"] &gt; 60, \"Overdue\",\n    np.where(client_df[\"Days Since Contact\"] &gt; 30, \"Due Soon\", \"On Track\")\n)\n\nclient_df.head(10)\n\n\n\n\n\n\n\n\n\nClient ID\nSegment\nRisk Profile\nRegion\nProduct Type\nAUM\nEstimated Monthly Revenue\nSatisfaction Score\nDays Since Contact\nLast Contact Date\nNext Review Date\nFollow-Up Status\n\n\n\n\n0\nC001\nRetail\nHigh\nEast\nMutual Fund\n144454\n1,526.14\n3.52\n24\n2025-03-07\n2025-04-25\nOn Track\n\n\n1\nC002\nCorporate\nModerate\nNorth\nEquity\n2936344\n34,832.52\n3.28\n83\n2025-01-07\n2025-03-15\nOverdue\n\n\n2\nC003\nCorporate\nModerate\nEast\nEquity\n4181340\n17,062.50\n4.72\n82\n2025-01-08\n2025-02-23\nOverdue\n\n\n3\nC004\nHNI\nModerate\nNorth\nFixed Income\n1395071\n13,920.67\n4.62\n70\n2025-01-20\n2025-03-10\nOverdue\n\n\n4\nC005\nHNI\nModerate\nNorth\nFixed Income\n1845342\n12,169.99\n3.99\n32\n2025-02-27\n2025-05-07\nDue Soon\n\n\n5\nC006\nHNI\nHigh\nSouth\nFixed Income\n1448817\n14,381.74\n3.90\n94\n2024-12-27\n2025-03-04\nOverdue\n\n\n6\nC007\nRetail\nModerate\nSouth\nMutual Fund\n201312\n1,522.52\n4.52\n89\n2025-01-01\n2025-02-10\nOverdue\n\n\n7\nC008\nRetail\nLow\nSouth\nEquity\n320026\n1,313.47\n3.75\n25\n2025-03-06\n2025-04-30\nOn Track\n\n\n8\nC009\nRetail\nModerate\nSouth\nMutual Fund\n98667\n527.60\n3.70\n15\n2025-03-16\n2025-05-07\nOn Track\n\n\n9\nC010\nRetail\nModerate\nEast\nMutual Fund\n397679\n3,827.59\n4.67\n15\n2025-03-16\n2025-05-06\nOn Track"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#dashboard-kpis",
+    "href": "projects/list/client-portfolio-dashboard.html#dashboard-kpis",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Dashboard KPIs",
+    "text": "Dashboard KPIs\n\n\nCode\ntotal_clients = len(client_df)\ntotal_aum = client_df[\"AUM\"].sum()\navg_satisfaction = client_df[\"Satisfaction Score\"].mean()\noverdue_rate = (client_df[\"Follow-Up Status\"].eq(\"Overdue\").mean() * 100)\n\nkpi_df = pd.DataFrame({\n    \"KPI\": [\n        \"Total Clients\",\n        \"Total AUM\",\n        \"Average Satisfaction Score\",\n        \"Overdue Follow-Up Rate (%)\"\n    ],\n    \"Value\": [\n        total_clients,\n        round(total_aum, 2),\n        round(avg_satisfaction, 2),\n        round(overdue_rate, 2)\n    ]\n})\n\nkpi_df\n\n\n\n\n\n\n\n\n\nKPI\nValue\n\n\n\n\n0\nTotal Clients\n120.00\n\n\n1\nTotal AUM\n146,160,468.00\n\n\n2\nAverage Satisfaction Score\n4.06\n\n\n3\nOverdue Follow-Up Rate (%)\n41.67"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#client-mix-by-segment",
+    "href": "projects/list/client-portfolio-dashboard.html#client-mix-by-segment",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Client mix by segment",
+    "text": "Client mix by segment\n\n\nCode\nsegment_summary = client_df.groupby(\"Segment\").agg(\n    Clients=(\"Client ID\", \"count\"),\n    Total_AUM=(\"AUM\", \"sum\"),\n    Avg_Satisfaction=(\"Satisfaction Score\", \"mean\")\n).reset_index()\n\nsegment_summary[\"Avg_Satisfaction\"] = segment_summary[\"Avg_Satisfaction\"].round(2)\nsegment_summary\n\n\n\n\n\n\n\n\n\nSegment\nClients\nTotal_AUM\nAvg_Satisfaction\n\n\n\n\n0\nCorporate\n17\n74736408\n4.13\n\n\n1\nHNI\n31\n51262717\n4.04\n\n\n2\nRetail\n72\n20161343\n4.06"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#follow-up-status-summary",
+    "href": "projects/list/client-portfolio-dashboard.html#follow-up-status-summary",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Follow-up status summary",
+    "text": "Follow-up status summary\n\n\nCode\nfollowup_summary = client_df[\"Follow-Up Status\"].value_counts().rename_axis(\"Status\").reset_index(name=\"Clients\")\nfollowup_summary\n\n\n\n\n\n\n\n\n\nStatus\nClients\n\n\n\n\n0\nOverdue\n50\n\n\n1\nOn Track\n40\n\n\n2\nDue Soon\n30"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#monthly-sales-and-engagement-pipeline",
+    "href": "projects/list/client-portfolio-dashboard.html#monthly-sales-and-engagement-pipeline",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Monthly sales and engagement pipeline",
+    "text": "Monthly sales and engagement pipeline\n\n\nCode\nmonths = pd.date_range(\"2024-04-01\", periods=12, freq=\"MS\")\n\npipeline_df = pd.DataFrame({\n    \"Month\": months.strftime(\"%b %Y\"),\n    \"Leads Generated\": [42, 48, 45, 52, 58, 61, 57, 65, 68, 72, 70, 76],\n    \"Follow-Ups Completed\": [30, 35, 33, 39, 44, 48, 46, 50, 54, 58, 59, 63],\n    \"Conversions\": [8, 9, 8, 11, 13, 14, 12, 15, 16, 18, 17, 20]\n})\n\npipeline_df\n\n\n\n\n\n\n\n\n\nMonth\nLeads Generated\nFollow-Ups Completed\nConversions\n\n\n\n\n0\nApr 2024\n42\n30\n8\n\n\n1\nMay 2024\n48\n35\n9\n\n\n2\nJun 2024\n45\n33\n8\n\n\n3\nJul 2024\n52\n39\n11\n\n\n4\nAug 2024\n58\n44\n13\n\n\n5\nSep 2024\n61\n48\n14\n\n\n6\nOct 2024\n57\n46\n12\n\n\n7\nNov 2024\n65\n50\n15\n\n\n8\nDec 2024\n68\n54\n16\n\n\n9\nJan 2025\n72\n58\n18\n\n\n10\nFeb 2025\n70\n59\n17\n\n\n11\nMar 2025\n76\n63\n20"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#priority-review-list",
+    "href": "projects/list/client-portfolio-dashboard.html#priority-review-list",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Priority review list",
+    "text": "Priority review list\n\n\nCode\nclient_df[\"Priority Score\"] = (\n    client_df[\"Days Since Contact\"] * 0.5\n    + (5 - client_df[\"Satisfaction Score\"]) * 20\n    + (client_df[\"AUM\"] / client_df[\"AUM\"].max()) * 25\n)\n\npriority_clients = client_df.sort_values(\"Priority Score\", ascending=False)[[\n    \"Client ID\",\n    \"Segment\",\n    \"Region\",\n    \"AUM\",\n    \"Satisfaction Score\",\n    \"Days Since Contact\",\n    \"Follow-Up Status\",\n    \"Priority Score\"\n]].head(10)\n\npriority_clients[\"Priority Score\"] = priority_clients[\"Priority Score\"].round(2)\npriority_clients\n\n\n\n\n\n\n\n\n\nClient ID\nSegment\nRegion\nAUM\nSatisfaction Score\nDays Since Contact\nFollow-Up Status\nPriority Score\n\n\n\n\n1\nC002\nCorporate\nNorth\n2936344\n3.28\n83\nOverdue\n86.12\n\n\n74\nC075\nRetail\nWest\n419510\n3.22\n91\nOverdue\n82.56\n\n\n37\nC038\nHNI\nWest\n1920683\n3.39\n87\nOverdue\n82.39\n\n\n5\nC006\nHNI\nSouth\n1448817\n3.90\n94\nOverdue\n74.04\n\n\n20\nC021\nCorporate\nSouth\n3898124\n3.83\n71\nOverdue\n72.47\n\n\n109\nC110\nCorporate\nSouth\n6278890\n4.72\n87\nOverdue\n70.95\n\n\n115\nC116\nCorporate\nNorth\n2303848\n3.48\n65\nOverdue\n70.92\n\n\n49\nC050\nRetail\nSouth\n376280\n3.56\n80\nOverdue\n70.11\n\n\n25\nC026\nCorporate\nSouth\n3643639\n4.36\n89\nOverdue\n69.98\n\n\n56\nC057\nRetail\nEast\n186390\n3.44\n76\nOverdue\n69.85"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#visual-1-client-count-by-segment",
+    "href": "projects/list/client-portfolio-dashboard.html#visual-1-client-count-by-segment",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Visual 1: client count by segment",
+    "text": "Visual 1: client count by segment\n\n\nCode\nsegment_counts = client_df[\"Segment\"].value_counts().sort_index()\nax = segment_counts.plot(kind=\"bar\")\nax.set_title(\"Client Count by Segment\")\nax.set_xlabel(\"Segment\")\nax.set_ylabel(\"Number of Clients\")\nplt.xticks(rotation=0)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: Distribution of clients across portfolio segments."
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#visual-2-total-aum-by-segment",
+    "href": "projects/list/client-portfolio-dashboard.html#visual-2-total-aum-by-segment",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Visual 2: total AUM by segment",
+    "text": "Visual 2: total AUM by segment\n\n\nCode\naum_by_segment = client_df.groupby(\"Segment\")[\"AUM\"].sum().sort_values()\nax = aum_by_segment.plot(kind=\"barh\")\nax.set_title(\"Total AUM by Segment\")\nax.set_xlabel(\"AUM\")\nax.set_ylabel(\"Segment\")\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\nFigure 2: Total assets under management by client segment."
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#visual-3-monthly-pipeline-trend",
+    "href": "projects/list/client-portfolio-dashboard.html#visual-3-monthly-pipeline-trend",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Visual 3: monthly pipeline trend",
+    "text": "Visual 3: monthly pipeline trend\n\n\nCode\npipeline_plot = pipeline_df.set_index(\"Month\")\nax = pipeline_plot.plot(marker=\"o\")\nax.set_title(\"Monthly Sales and Engagement Pipeline\")\nax.set_xlabel(\"Month\")\nax.set_ylabel(\"Count\")\nplt.xticks(rotation=45, ha=\"right\")\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\nFigure 3: Trend in leads, follow-ups, and conversions across 12 months."
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#visual-4-follow-up-status-distribution",
+    "href": "projects/list/client-portfolio-dashboard.html#visual-4-follow-up-status-distribution",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Visual 4: follow-up status distribution",
+    "text": "Visual 4: follow-up status distribution\n\n\nCode\nstatus_counts = client_df[\"Follow-Up Status\"].value_counts()\nax = status_counts.plot(kind=\"bar\")\nax.set_title(\"Follow-Up Status Distribution\")\nax.set_xlabel(\"Status\")\nax.set_ylabel(\"Number of Clients\")\nplt.xticks(rotation=0)\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\nFigure 4: Distribution of follow-up health across the client base."
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#interpretation-of-findings",
+    "href": "projects/list/client-portfolio-dashboard.html#interpretation-of-findings",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Interpretation of findings",
+    "text": "Interpretation of findings\n\n\n\n\n\n\nImportantKey insights\n\n\n\n\nRetail clients form the largest share of the client base, but HNI and Corporate accounts contribute strongly to total AUM.\nA dashboard like this helps prioritize outreach by combining relationship freshness, client value, and satisfaction.\nThe monthly pipeline trend suggests that follow-up activity and conversions improve when lead generation stays consistent.\nOverdue review cases can be isolated quickly through a priority score, improving relationship management and service planning."
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#business-value-of-the-dashboard",
+    "href": "projects/list/client-portfolio-dashboard.html#business-value-of-the-dashboard",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Business value of the dashboard",
+    "text": "Business value of the dashboard\nThis project shows how a simple analytics dashboard can support:\n\nrelationship management\nreview scheduling\nfollow-up planning\nperformance reporting\ndecision support for portfolio and sales activity"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#skills-demonstrated",
+    "href": "projects/list/client-portfolio-dashboard.html#skills-demonstrated",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Skills demonstrated",
+    "text": "Skills demonstrated\n\nPython with pandas and numpy\nsynthetic business dataset creation\nKPI reporting\ndashboard thinking\nprioritization logic\ndata visualization with matplotlib\nprofessional communication of insights"
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#conclusion",
+    "href": "projects/list/client-portfolio-dashboard.html#conclusion",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Conclusion",
+    "text": "Conclusion\nThis project reflects how data can be organized into a practical decision-support tool. Even with synthetic data, the dashboard demonstrates how analytics can improve visibility into portfolio activity, follow-up quality, and client engagement outcomes."
+  },
+  {
+    "objectID": "projects/list/client-portfolio-dashboard.html#footnotes",
+    "href": "projects/list/client-portfolio-dashboard.html#footnotes",
+    "title": "Client Portfolio and Sales Insights Dashboard",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSynthetic data is used to protect confidentiality while still demonstrating the reporting and dashboard workflow clearly.↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Abel G N",
+    "section": "",
+    "text": "My name is Abel G N and I am a graduate in Business Administration with a major in International Business as well as an emerging interest in data analytics, reporting and business intelligence. My educational and internship opportunities have enhanced my skills of relating business knowledge with data-driven decision-making."
+  },
+  {
+    "objectID": "index.html#what-i-bring",
+    "href": "index.html#what-i-bring",
+    "title": "Abel G N",
+    "section": "What I bring",
+    "text": "What I bring\n\n\n\n\n\n\n\nArea\nStrengths\n\n\n\n\nBusiness foundation\nInternational business, financial management, managerial economics, accounting\n\n\nAnalytics tools\nExcel, Tableau, Power BI, SQL\n\n\nPractical exposure\nInternships in financial services and project operations\n\n\nProfessional focus\nData analysis, business intelligence, reporting, and decision support"
+  },
+  {
+    "objectID": "index.html#professional-profile",
+    "href": "index.html#professional-profile",
+    "title": "Abel G N",
+    "section": "Professional profile",
+    "text": "Professional profile\nI like solving problems that involve business knowledge as well as problem analysis. I have gained confidence in my research of business problems, organizing, discovery of trends, and presentation of insights as part of my studies and during my internships.\n\nCurrent areas of growth\n\nBusiness analysis and reporting\nData visualization\nProfessional communication\nAdvanced Python-based analytics\nPortfolio projects with richer interactive outputs\n\n\n\n\n\n\n\nNoteMy goal\n\n\n\nMy goal is to build a career where I can combine business knowledge, analytical thinking, and digital tools to support smarter decisions and create measurable value for organizations."
+  },
+  {
+    "objectID": "index.html#explore-this-site",
+    "href": "index.html#explore-this-site",
+    "title": "Abel G N",
+    "section": "Explore this site",
+    "text": "Explore this site\nYou can use this portfolio to learn more about:\n\nmy background and strengths on the About page\nmy practical and academic work in Projects\nmy qualifications through my CV\nmy learning journey in the Reflection page\nmy contact details and references on the Contact / References page"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Abel G N",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis site is built with Quarto, version controlled with Git, and intended for publication through GitHub Pages.↩︎"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "My name is Abel G N and I am a graduate in Business Administration (International Business) with great interest in data analytics, business intelligence and decision-oriented reporting. My academic experience has taught me the principles of business functions and my practical experience has demonstrated me that data and organized analysis can enhance decisions and outcomes."
+  },
+  {
+    "objectID": "about.html#introduction",
+    "href": "about.html#introduction",
+    "title": "About Me",
+    "section": "",
+    "text": "My name is Abel G N and I am a graduate in Business Administration (International Business) with great interest in data analytics, business intelligence and decision-oriented reporting. My academic experience has taught me the principles of business functions and my practical experience has demonstrated me that data and organized analysis can enhance decisions and outcomes."
+  },
+  {
+    "objectID": "about.html#academic-background",
+    "href": "about.html#academic-background",
+    "title": "About Me",
+    "section": "Academic background",
+    "text": "Academic background\nI completed my Bachelor of Business Administration in International Business at Karunya Institute of Technology and Sciences, Coimbatore. My coursework included areas such as:\n\nBusiness Statistics with R\nPrinciples of Marketing\nFinancial Management\nManagerial Economics\nCost Accounting\nE-Banking\nIncome Tax\nIndirect Tax\nApplication of Analytics in Business\n\nBefore that, I completed my school education in Commerce and IP at Bethany Academy, which gave me an early foundation in accounting, economics, and business studies."
+  },
+  {
+    "objectID": "about.html#experience-and-exposure",
+    "href": "about.html#experience-and-exposure",
+    "title": "About Me",
+    "section": "Experience and exposure",
+    "text": "Experience and exposure\nMy internships helped me move from classroom learning to practical application.\n\nGeojit Financial Services Limited\nAt Geojit Financial Services, I supported operational and client-facing tasks such as:\n\nKYC documentation and account verification\nassisting with sales leads and follow-ups\nhelping monitor client portfolios\nsupporting account opening procedures\nresponding to client queries related to trading and investment products\n\nThis experience improved my understanding of financial services, compliance processes, and customer support in a professional environment.\n\n\nEnnovations Techserv Pvt Ltd\nAt Ennovations Techserv, I contributed to project coordination and data-related tasks, including:\n\nsupporting the rollout of Project Helios\ncontributing to data analysis and reporting\nimproving coordination within a cross-functional team\nhelping streamline project processes\nparticipating in problem-solving and documentation\n\nThis internship strengthened my teamwork, accountability, and reporting skills while giving me exposure to project-based work."
+  },
+  {
+    "objectID": "about.html#skills-and-tools",
+    "href": "about.html#skills-and-tools",
+    "title": "About Me",
+    "section": "Skills and tools",
+    "text": "Skills and tools\n\n\n\n\n\n\n\nCategory\nDetails\n\n\n\n\nData and BI tools\nTableau, Power BI, Microsoft Excel\n\n\nTechnical skills\nDatabase Management, Data Analysis, Data Visualization, Business Intelligence\n\n\nCertifications\nGoogle Data Analytics, Google Business Intelligence, SQL and Relational Databases, MS Excel at Work\n\n\nProfessional strengths\nCommunication, documentation, teamwork, problem solving"
+  },
+  {
+    "objectID": "about.html#a-simple-view-of-my-journey",
+    "href": "about.html#a-simple-view-of-my-journey",
+    "title": "About Me",
+    "section": "A simple view of my journey",
+    "text": "A simple view of my journey\n\n\n\n\n\nflowchart LR\n    A[Commerce foundation] --&gt; B[BBA in International Business]\n    B --&gt; C[Financial services internship]\n    B --&gt; D[Project operations internship]\n    C --&gt; E[Interest in analysis and reporting]\n    D --&gt; E\n    E --&gt; F[Career goal in analytics and business intelligence]"
+  },
+  {
+    "objectID": "about.html#what-motivates-me",
+    "href": "about.html#what-motivates-me",
+    "title": "About Me",
+    "section": "What motivates me",
+    "text": "What motivates me\nI am motivated by work that turns information into useful action. I enjoy learning how organizations operate, identifying patterns in data, and presenting findings in a way that supports planning and decision-making.\n\n\n\n\n\n\nTipWhy this portfolio matters\n\n\n\nThis portfolio is more than a course assignment. It represents my effort to build a professional digital presence that shows my skills, my growth, and the kind of value I hope to bring to future opportunities."
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About Me",
+    "section": "Career goals",
+    "text": "Career goals\nMy long-term goal is to work in a role related to:\n\nbusiness analytics\nreporting and dashboarding\nbusiness intelligence\noperations or strategy support\ndata-informed decision-making\n\nI want to continue improving my technical skills, especially in analytics tools and coding, while strengthening the business perspective needed to apply them effectively."
+  },
+  {
+    "objectID": "about.html#personal-interests",
+    "href": "about.html#personal-interests",
+    "title": "About Me",
+    "section": "Personal interests",
+    "text": "Personal interests\nOutside academics and work, I enjoy:\n\nFootball\nGaming\nWalking\n\nThese interests help me stay balanced, active, and connected to teamwork and discipline."
+  },
+  {
+    "objectID": "about.html#closing-note",
+    "href": "about.html#closing-note",
+    "title": "About Me",
+    "section": "Closing note",
+    "text": "Closing note\nI see myself as someone who is still growing, but growing with purpose. All my academic work, internship and projects have assisted me to become more assured when integrating business knowledge, professional responsibility and analytical thinking in a clear career path."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact / References",
+    "section": "",
+    "text": "Thank you for visiting my ePortfolio. I welcome opportunities to connect regarding internships, graduate roles, business analytics, business intelligence, and professional collaboration.\n\n\n\n\n\n\n\nNotePlease update before publishing\n\n\n\nReplace the placeholder details below with your real contact links, email address, and reference information before you publish your site.\n\n\n\n\n\nContact Method\nDetails\n\n\n\n\nFull Name\nAbel G N\n\n\nEmail\nabel.georgenibu2@mail.dcu.ie\n\n\nLinkedIn\nhttps://www.linkedin.com/in/your-linkedin-profile\n\n\nGitHub\nhttps://github.com/your-username\n\n\nLocation\nCoimbatore, India / Kerala, India"
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact / References",
+    "section": "",
+    "text": "Thank you for visiting my ePortfolio. I welcome opportunities to connect regarding internships, graduate roles, business analytics, business intelligence, and professional collaboration.\n\n\n\n\n\n\n\nNotePlease update before publishing\n\n\n\nReplace the placeholder details below with your real contact links, email address, and reference information before you publish your site.\n\n\n\n\n\nContact Method\nDetails\n\n\n\n\nFull Name\nAbel G N\n\n\nEmail\nabel.georgenibu2@mail.dcu.ie\n\n\nLinkedIn\nhttps://www.linkedin.com/in/your-linkedin-profile\n\n\nGitHub\nhttps://github.com/your-username\n\n\nLocation\nCoimbatore, India / Kerala, India"
+  },
+  {
+    "objectID": "contact.html#professional-summary",
+    "href": "contact.html#professional-summary",
+    "title": "Contact / References",
+    "section": "Professional summary",
+    "text": "Professional summary\nI am a graduate in Business Administration (International Business) with interests in data analytics, business intelligence, reporting, and decision support. I am especially interested in opportunities where I can combine business understanding with analytical tools to contribute to meaningful outcomes.\n\n\n\n\n\n\nTipAreas of interest\n\n\n\n\nBusiness Analytics\nData Visualization\nBusiness Intelligence\nReporting and Dashboarding\nFinancial and Operational Analysis"
+  },
+  {
+    "objectID": "contact.html#ways-to-reach-me",
+    "href": "contact.html#ways-to-reach-me",
+    "title": "Contact / References",
+    "section": "Ways to reach me",
+    "text": "Ways to reach me\nYou may contact me for:\n\ngraduate and entry-level opportunities\ninternships and trainee roles\nproject collaboration\nprofessional networking\ndiscussions related to analytics and business intelligence"
+  },
+  {
+    "objectID": "contact.html#references",
+    "href": "contact.html#references",
+    "title": "Contact / References",
+    "section": "References",
+    "text": "References\nBelow is a professional references section you can keep in your portfolio. Replace the sample placeholders with your actual referees.\n\nReference 1\n\nName: Mr./Ms. Reference Name 1\nPosition: Internship Supervisor / Manager\nOrganization: Geojit Financial Services Limited\nEmail: reference1@example.com\nPhone: +91-XXXXXXXXXX\nRelationship: Supervised me during my internship and can comment on my professionalism, communication, and ability to handle operational and client-support responsibilities.\n\n\n\nReference 2\n\nName: Mr./Ms. Reference Name 2\nPosition: Project Supervisor / Faculty / Team Lead\nOrganization: Ennovations Techserv Pvt Ltd / Karunya Institute of Technology and Sciences\nEmail: reference2@example.com\nPhone: +91-XXXXXXXXXX\nRelationship: Can comment on my reporting skills, teamwork, documentation, and analytical approach in academic or project-based settings."
+  },
+  {
+    "objectID": "contact.html#professional-values",
+    "href": "contact.html#professional-values",
+    "title": "Contact / References",
+    "section": "Professional values",
+    "text": "Professional values\nI aim to present myself as someone who values:\n\nresponsibility\naccuracy\ncontinuous learning\nteamwork\nprofessional communication\n\nThese values have shaped my academic work, internship experiences, and the way I approach professional development."
+  },
+  {
+    "objectID": "contact.html#availability",
+    "href": "contact.html#availability",
+    "title": "Contact / References",
+    "section": "Availability",
+    "text": "Availability\n\n\n\nType of Opportunity\nStatus\n\n\n\n\nInternship opportunities\nOpen\n\n\nGraduate roles\nOpen\n\n\nBusiness analytics roles\nOpen\n\n\nNetworking and collaboration\nOpen\n\n\n\n\n\n\n\n\n\nImportantReference note\n\n\n\nPlease make sure you have the permission of your referees before publishing their contact details publicly on your website. If needed, you may write: “References available upon request.”"
+  },
+  {
+    "objectID": "contact.html#closing-note",
+    "href": "contact.html#closing-note",
+    "title": "Contact / References",
+    "section": "Closing note",
+    "text": "Closing note\nThank you for taking the time to view my portfolio. I am continuing to build my skills in business, analytics, and digital tools, and I look forward to opportunities where I can learn, contribute, and grow professionally."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page highlights selected academic and practical projects that reflect my growing interest in data analytics, business intelligence, financial analysis, and decision-focused reporting."
+  },
+  {
+    "objectID": "projects/index.html#featured-project-work",
+    "href": "projects/index.html#featured-project-work",
+    "title": "Projects",
+    "section": "Featured project work",
+    "text": "Featured project work\nBelow is a collection of projects that demonstrate my ability to combine business understanding, analytical thinking, and digital tools to communicate useful insights."
+  },
+  {
+    "objectID": "projects/index.html#project-categories",
+    "href": "projects/index.html#project-categories",
+    "title": "Projects",
+    "section": "Project categories",
+    "text": "Project categories\nYou can use the filters above to browse projects by theme, such as:\n\nFinancial Analysis\nData Analytics\nBusiness Intelligence\nDashboards\nReporting\n\n\n\n\n\n\n\nTipWhat these projects show\n\n\n\nThese projects reflect my development in:\n\nstructuring business problems clearly\nusing data to support conclusions\npresenting outputs in a professional format\nbuilding confidence with analytics tools and Python workflows"
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html",
+    "href": "projects/list/financial-performance-itc.html",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "",
+    "text": "This project demonstrates how Python can be used to support financial statement analysis through a structured comparison of selected 2020 and 2021 values. It reflects the financial analysis theme in my academic project work and presents the approach in a portfolio-friendly format.\n\n\n\n\n\n\nNoteData note\n\n\n\nThe dataset used in this page is an illustrative academic dataset created for portfolio demonstration. It is designed to show the analytical method clearly through executable Python code, comparative analysis, common-size analysis, and ratio calculations.1"
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#project-overview",
+    "href": "projects/list/financial-performance-itc.html#project-overview",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "",
+    "text": "This project demonstrates how Python can be used to support financial statement analysis through a structured comparison of selected 2020 and 2021 values. It reflects the financial analysis theme in my academic project work and presents the approach in a portfolio-friendly format.\n\n\n\n\n\n\nNoteData note\n\n\n\nThe dataset used in this page is an illustrative academic dataset created for portfolio demonstration. It is designed to show the analytical method clearly through executable Python code, comparative analysis, common-size analysis, and ratio calculations.1"
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#objectives",
+    "href": "projects/list/financial-performance-itc.html#objectives",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Objectives",
+    "text": "Objectives\nThe main goals of this project are to:\n\ncompare selected financial statement items across two years\ncalculate absolute and percentage changes\nprepare a common-size style interpretation\ncalculate key financial ratios\ncommunicate findings using tables and charts"
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#analytical-approach",
+    "href": "projects/list/financial-performance-itc.html#analytical-approach",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Analytical approach",
+    "text": "Analytical approach\nThis project uses the following ideas:\n\\[\n\\text{Percentage Change} = \\frac{\\text{New Value} - \\text{Old Value}}{\\text{Old Value}} \\times 100\n\\]\n\\[\n\\text{Common-Size Ratio} = \\frac{\\text{Statement Item}}{\\text{Base Amount}} \\times 100\n\\]\nFor the income statement, the base amount is Revenue.\nFor the balance sheet, the base amount is Total Assets."
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#python-setup",
+    "href": "projects/list/financial-performance-itc.html#python-setup",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Python setup",
+    "text": "Python setup\n\n\nCode\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\nplt.rcParams[\"figure.figsize\"] = (10, 6)\npd.set_option(\"display.float_format\", lambda x: f\"{x:,.2f}\")"
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#create-the-financial-dataset",
+    "href": "projects/list/financial-performance-itc.html#create-the-financial-dataset",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Create the financial dataset",
+    "text": "Create the financial dataset\n\n\nCode\nincome_statement = pd.DataFrame({\n    \"Item\": [\"Revenue\", \"Operating Profit\", \"Profit Before Tax\", \"Net Profit\"],\n    \"2020\": [52300, 17800, 15200, 11750],\n    \"2021\": [56900, 19250, 16540, 12820]\n})\n\nbalance_sheet = pd.DataFrame({\n    \"Item\": [\n        \"Current Assets\",\n        \"Non-Current Assets\",\n        \"Current Liabilities\",\n        \"Non-Current Liabilities\",\n        \"Equity\"\n    ],\n    \"2020\": [29500, 39200, 14600, 9900, 44200],\n    \"2021\": [31850, 40950, 15400, 10300, 47100]\n})\n\nincome_statement\n\n\n\n\n\n\n\n\n\nItem\n2020\n2021\n\n\n\n\n0\nRevenue\n52300\n56900\n\n\n1\nOperating Profit\n17800\n19250\n\n\n2\nProfit Before Tax\n15200\n16540\n\n\n3\nNet Profit\n11750\n12820"
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#income-statement-comparison",
+    "href": "projects/list/financial-performance-itc.html#income-statement-comparison",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Income statement comparison",
+    "text": "Income statement comparison\n\n\nCode\nincome_comparative = income_statement.copy()\nincome_comparative[\"Absolute Change\"] = income_comparative[\"2021\"] - income_comparative[\"2020\"]\nincome_comparative[\"% Change\"] = (\n    income_comparative[\"Absolute Change\"] / income_comparative[\"2020\"] * 100\n).round(2)\n\nincome_comparative\n\n\n\n\n\n\n\n\n\nItem\n2020\n2021\nAbsolute Change\n% Change\n\n\n\n\n0\nRevenue\n52300\n56900\n4600\n8.80\n\n\n1\nOperating Profit\n17800\n19250\n1450\n8.15\n\n\n2\nProfit Before Tax\n15200\n16540\n1340\n8.82\n\n\n3\nNet Profit\n11750\n12820\n1070\n9.11"
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#balance-sheet-comparison",
+    "href": "projects/list/financial-performance-itc.html#balance-sheet-comparison",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Balance sheet comparison",
+    "text": "Balance sheet comparison\n\n\nCode\nbalance_comparative = balance_sheet.copy()\nbalance_comparative[\"Absolute Change\"] = balance_comparative[\"2021\"] - balance_comparative[\"2020\"]\nbalance_comparative[\"% Change\"] = (\n    balance_comparative[\"Absolute Change\"] / balance_comparative[\"2020\"] * 100\n).round(2)\n\nbalance_comparative\n\n\n\n\n\n\n\n\n\nItem\n2020\n2021\nAbsolute Change\n% Change\n\n\n\n\n0\nCurrent Assets\n29500\n31850\n2350\n7.97\n\n\n1\nNon-Current Assets\n39200\n40950\n1750\n4.46\n\n\n2\nCurrent Liabilities\n14600\n15400\n800\n5.48\n\n\n3\nNon-Current Liabilities\n9900\n10300\n400\n4.04\n\n\n4\nEquity\n44200\n47100\n2900\n6.56"
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#common-size-income-statement",
+    "href": "projects/list/financial-performance-itc.html#common-size-income-statement",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Common-size income statement",
+    "text": "Common-size income statement\n\n\nCode\nincome_common_size = income_statement.copy()\nincome_common_size[\"2020 Common Size %\"] = (\n    income_common_size[\"2020\"] / income_common_size.loc[income_common_size[\"Item\"] == \"Revenue\", \"2020\"].iloc[0] * 100\n).round(2)\nincome_common_size[\"2021 Common Size %\"] = (\n    income_common_size[\"2021\"] / income_common_size.loc[income_common_size[\"Item\"] == \"Revenue\", \"2021\"].iloc[0] * 100\n).round(2)\n\nincome_common_size[[\"Item\", \"2020 Common Size %\", \"2021 Common Size %\"]]\n\n\n\n\n\n\n\n\n\nItem\n2020 Common Size %\n2021 Common Size %\n\n\n\n\n0\nRevenue\n100.00\n100.00\n\n\n1\nOperating Profit\n34.03\n33.83\n\n\n2\nProfit Before Tax\n29.06\n29.07\n\n\n3\nNet Profit\n22.47\n22.53"
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#common-size-balance-sheet",
+    "href": "projects/list/financial-performance-itc.html#common-size-balance-sheet",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Common-size balance sheet",
+    "text": "Common-size balance sheet\n\n\nCode\ntotal_assets_2020 = balance_sheet.loc[balance_sheet[\"Item\"].isin([\"Current Assets\", \"Non-Current Assets\"]), \"2020\"].sum()\ntotal_assets_2021 = balance_sheet.loc[balance_sheet[\"Item\"].isin([\"Current Assets\", \"Non-Current Assets\"]), \"2021\"].sum()\n\nbalance_common_size = balance_sheet.copy()\nbalance_common_size[\"2020 Common Size %\"] = (balance_common_size[\"2020\"] / total_assets_2020 * 100).round(2)\nbalance_common_size[\"2021 Common Size %\"] = (balance_common_size[\"2021\"] / total_assets_2021 * 100).round(2)\n\nbalance_common_size[[\"Item\", \"2020 Common Size %\", \"2021 Common Size %\"]]\n\n\n\n\n\n\n\n\n\nItem\n2020 Common Size %\n2021 Common Size %\n\n\n\n\n0\nCurrent Assets\n42.94\n43.75\n\n\n1\nNon-Current Assets\n57.06\n56.25\n\n\n2\nCurrent Liabilities\n21.25\n21.15\n\n\n3\nNon-Current Liabilities\n14.41\n14.15\n\n\n4\nEquity\n64.34\n64.70"
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#key-financial-ratios",
+    "href": "projects/list/financial-performance-itc.html#key-financial-ratios",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Key financial ratios",
+    "text": "Key financial ratios\n\n\nCode\nratios = pd.DataFrame({\n    \"Ratio\": [\n        \"Current Ratio\",\n        \"Debt to Equity\",\n        \"Net Profit Margin\",\n        \"Return on Assets\"\n    ],\n    \"2020\": [\n        29500 / 14600,\n        (14600 + 9900) / 44200,\n        11750 / 52300,\n        11750 / total_assets_2020\n    ],\n    \"2021\": [\n        31850 / 15400,\n        (15400 + 10300) / 47100,\n        12820 / 56900,\n        12820 / total_assets_2021\n    ]\n})\n\nratios[\"2020\"] = ratios[\"2020\"].round(3)\nratios[\"2021\"] = ratios[\"2021\"].round(3)\nratios\n\n\n\n\n\n\n\n\n\nRatio\n2020\n2021\n\n\n\n\n0\nCurrent Ratio\n2.02\n2.07\n\n\n1\nDebt to Equity\n0.55\n0.55\n\n\n2\nNet Profit Margin\n0.23\n0.23\n\n\n3\nReturn on Assets\n0.17\n0.18"
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#visual-comparison-of-key-income-statement-items",
+    "href": "projects/list/financial-performance-itc.html#visual-comparison-of-key-income-statement-items",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Visual comparison of key income statement items",
+    "text": "Visual comparison of key income statement items\n\n\nCode\nincome_plot = income_statement.set_index(\"Item\")\nax = income_plot.plot(kind=\"bar\")\nax.set_title(\"Income Statement Comparison\")\nax.set_xlabel(\"Financial Item\")\nax.set_ylabel(\"Value\")\nplt.xticks(rotation=20, ha=\"right\")\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: Comparison of selected income statement items for 2020 and 2021."
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#visual-comparison-of-balance-sheet-structure",
+    "href": "projects/list/financial-performance-itc.html#visual-comparison-of-balance-sheet-structure",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Visual comparison of balance sheet structure",
+    "text": "Visual comparison of balance sheet structure\n\n\nCode\nbalance_plot = balance_sheet.set_index(\"Item\")\nax = balance_plot.plot(kind=\"bar\")\nax.set_title(\"Balance Sheet Comparison\")\nax.set_xlabel(\"Balance Sheet Item\")\nax.set_ylabel(\"Value\")\nplt.xticks(rotation=20, ha=\"right\")\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\nFigure 2: Comparison of selected balance sheet items for 2020 and 2021."
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#ratio-trend-comparison",
+    "href": "projects/list/financial-performance-itc.html#ratio-trend-comparison",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Ratio trend comparison",
+    "text": "Ratio trend comparison\n\n\nCode\nratio_plot = ratios.set_index(\"Ratio\")\nax = ratio_plot.plot(kind=\"bar\")\nax.set_title(\"Key Ratio Comparison\")\nax.set_xlabel(\"Ratio\")\nax.set_ylabel(\"Value\")\nplt.xticks(rotation=20, ha=\"right\")\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\nFigure 3: Year-on-year comparison of selected financial ratios."
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#interpretation-of-findings",
+    "href": "projects/list/financial-performance-itc.html#interpretation-of-findings",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Interpretation of findings",
+    "text": "Interpretation of findings\n\n\n\n\n\n\nImportantKey insights\n\n\n\n\nRevenue, operating profit, profit before tax, and net profit all increased from 2020 to 2021.\nThe company’s profitability margins remained relatively stable, with a slight improvement in net profit.\nThe current ratio improved slightly, suggesting a modest strengthening in short-term liquidity.\nDebt-to-equity stayed controlled, indicating a balanced financing structure in this simplified model.\nThe balance sheet structure remained stable, with equity continuing to represent a significant share of financing."
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#conclusion",
+    "href": "projects/list/financial-performance-itc.html#conclusion",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Conclusion",
+    "text": "Conclusion\nThis project shows how Python can support financial statement interpretation in a clear and reproducible way. By combining comparative statements, common-size analysis, ratio analysis, and charts, the project demonstrates a practical approach to understanding financial performance trends."
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#skills-demonstrated",
+    "href": "projects/list/financial-performance-itc.html#skills-demonstrated",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Skills demonstrated",
+    "text": "Skills demonstrated\n\nFinancial statement analysis\nComparative and common-size analysis\nRatio analysis\nPython with pandas\nData visualization with matplotlib\nInsight communication in Quarto"
+  },
+  {
+    "objectID": "projects/list/financial-performance-itc.html#footnotes",
+    "href": "projects/list/financial-performance-itc.html#footnotes",
+    "title": "Analyzing Financial Performance: A Comprehensive Study of ITC",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe numerical values in this page are illustrative and used only to demonstrate analysis workflow and presentation.↩︎"
+  }
+]

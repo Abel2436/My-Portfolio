@@ -1,0 +1,106 @@
+---
+title: "Contact / References"
+page-layout: article
+toc: true
+---
+
+## Contact Information
+
+::: {.hero-intro}
+Thank you for visiting my ePortfolio. I welcome opportunities to connect regarding internships, graduate roles, business analytics, business intelligence, and professional collaboration.
+:::
+
+::: {.callout-note}
+## Please update before publishing
+
+Replace the placeholder details below with your real contact links, email address, and reference information before you publish your site.
+:::
+
+| Contact Method | Details |
+|---|---|
+| Full Name | Abel G N |
+| Email | abel.georgenibu2@mail.dcu.ie |
+| LinkedIn | https://www.linkedin.com/in/your-linkedin-profile |
+| GitHub | https://github.com/your-username |
+| Location | Coimbatore, India / Kerala, India |
+
+## Professional summary
+
+I am a graduate in **Business Administration (International Business)** with interests in **data analytics**, **business intelligence**, **reporting**, and **decision support**. I am especially interested in opportunities where I can combine business understanding with analytical tools to contribute to meaningful outcomes.
+
+::: {.callout-tip}
+## Areas of interest
+
+- Business Analytics
+- Data Visualization
+- Business Intelligence
+- Reporting and Dashboarding
+- Financial and Operational Analysis
+:::
+
+## Ways to reach me
+
+You may contact me for:
+
+- graduate and entry-level opportunities
+- internships and trainee roles
+- project collaboration
+- professional networking
+- discussions related to analytics and business intelligence
+
+## References
+
+Below is a professional references section you can keep in your portfolio. Replace the sample placeholders with your actual referees.
+
+### Reference 1
+
+::: {.profile-card}
+**Name:** Mr./Ms. Reference Name 1  
+**Position:** Internship Supervisor / Manager  
+**Organization:** Geojit Financial Services Limited  
+**Email:** reference1@example.com  
+**Phone:** +91-XXXXXXXXXX  
+**Relationship:** Supervised me during my internship and can comment on my professionalism, communication, and ability to handle operational and client-support responsibilities.
+:::
+
+### Reference 2
+
+::: {.profile-card}
+**Name:** Mr./Ms. Reference Name 2  
+**Position:** Project Supervisor / Faculty / Team Lead  
+**Organization:** Ennovations Techserv Pvt Ltd / Karunya Institute of Technology and Sciences  
+**Email:** reference2@example.com  
+**Phone:** +91-XXXXXXXXXX  
+**Relationship:** Can comment on my reporting skills, teamwork, documentation, and analytical approach in academic or project-based settings.
+:::
+
+## Professional values
+
+I aim to present myself as someone who values:
+
+- responsibility
+- accuracy
+- continuous learning
+- teamwork
+- professional communication
+
+These values have shaped my academic work, internship experiences, and the way I approach professional development.
+
+## Availability
+
+| Type of Opportunity | Status |
+|---|---|
+| Internship opportunities | Open |
+| Graduate roles | Open |
+| Business analytics roles | Open |
+| Networking and collaboration | Open |
+
+::: {.callout-important}
+## Reference note
+
+Please make sure you have the permission of your referees before publishing their contact details publicly on your website. If needed, you may write: **“References available upon request.”**
+:::
+
+## Closing note
+
+Thank you for taking the time to view my portfolio. I am continuing to build my skills in business, analytics, and digital tools, and I look forward to opportunities where I can learn, contribute, and grow professionally.

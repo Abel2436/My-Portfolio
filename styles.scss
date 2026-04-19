@@ -1,0 +1,244 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:wght@700&display=swap');
+
+/*-- scss:defaults --*/
+
+// Typography
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+$headings-font-family: "Merriweather", Georgia, serif;
+$headings-font-weight: 700;
+
+// Brand colors
+$primary: #0f4c81;
+$secondary: #2d6a4f;
+$success: #2d6a4f;
+$info: #3b82f6;
+$warning: #b7791f;
+$danger: #b42318;
+
+// Base colors
+$body-bg: #f8fafc;
+$body-color: #1f2937;
+$link-color: #0f4c81;
+$link-hover-color: #0b3b63;
+$border-color: #dbe4ee;
+
+// Navbar and footer
+$navbar-bg: #0f172a;
+$navbar-fg: #f8fafc;
+$navbar-hl: #93c5fd;
+$footer-bg: #0f172a;
+$footer-fg: #e5e7eb;
+
+// Code + tables
+$code-bg: #eef4fb;
+$code-color: #1e3a5f;
+$table-bg-scale: 0%;
+
+/*-- scss:rules --*/
+
+body {
+  line-height: 1.75;
+  letter-spacing: 0.1px;
+}
+
+main.content {
+  max-width: 1100px;
+}
+
+h1, h2, h3, h4 {
+  color: #0f172a;
+  letter-spacing: 0.2px;
+}
+
+h1.title {
+  font-size: 2.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle,
+.quarto-title .quarto-categories {
+  color: #475569;
+}
+
+a {
+  text-decoration: none;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.navbar {
+  box-shadow: 0 2px 14px rgba(15, 23, 42, 0.08);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+  width: auto;
+}
+
+#quarto-header {
+  margin-bottom: 1rem;
+}
+
+.hero-intro {
+  background: linear-gradient(135deg, #eaf3fb 0%, #f8fbff 100%);
+  border: 1px solid #d8e8f7;
+  border-radius: 18px;
+  padding: 1.4rem 1.5rem;
+  margin: 1.25rem 0 1.75rem 0;
+  box-shadow: 0 10px 24px rgba(15, 76, 129, 0.06);
+  font-size: 1.05rem;
+}
+
+.profile-card {
+  background: #ffffff;
+  border: 1px solid #dbe4ee;
+  border-left: 5px solid #0f4c81;
+  border-radius: 16px;
+  padding: 1.25rem 1.25rem 1rem 1.25rem;
+  margin: 1rem 0 1.5rem 0;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.04);
+}
+
+.callout {
+  border-radius: 16px;
+  border-width: 1px;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.04);
+}
+
+.callout.callout-style-simple {
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+
+.callout-note {
+  border-left: 5px solid #0f4c81;
+}
+
+.callout-important {
+  border-left: 5px solid #2d6a4f;
+}
+
+.callout-tip {
+  border-left: 5px solid #3b82f6;
+}
+
+.table,
+table {
+  background: #ffffff;
+  border: 1px solid #dbe4ee;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+table th {
+  background-color: #eaf3fb;
+  color: #0f172a;
+  font-weight: 700;
+  border-bottom: 1px solid #dbe4ee;
+}
+
+table th,
+table td {
+  padding: 0.85rem 1rem;
+  vertical-align: middle;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #f8fbfe;
+}
+
+code {
+  background-color: #eef4fb;
+  color: #1e3a5f;
+  padding: 0.15rem 0.35rem;
+  border-radius: 6px;
+}
+
+pre code {
+  padding: 0;
+  background: transparent;
+}
+
+.quarto-about-trestles .about-entity .about-links {
+  gap: 0.5rem;
+}
+
+.quarto-about-trestles .about-entity .about-link {
+  border: 1px solid #dbe4ee;
+  border-radius: 999px;
+  padding: 0.45rem 0.9rem;
+  background: #ffffff;
+  box-shadow: 0 6px 14px rgba(15, 23, 42, 0.04);
+}
+
+.quarto-about-trestles .about-entity .about-link:hover {
+  background: #f3f8fd;
+  border-color: #bfd7ef;
+  text-decoration: none;
+}
+
+.quarto-about-trestles .about-image {
+  border-radius: 20px;
+  box-shadow: 0 14px 28px rgba(15, 23, 42, 0.10);
+}
+
+.quarto-about-trestles .about-contents {
+  padding-top: 0.75rem;
+}
+
+figure {
+  margin-top: 1.2rem;
+  margin-bottom: 1.4rem;
+}
+
+figcaption {
+  color: #64748b;
+  font-size: 0.95rem;
+  margin-top: 0.45rem;
+}
+
+ul li,
+ol li {
+  margin-bottom: 0.35rem;
+}
+
+.page-footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+footer.footer {
+  margin-top: 2rem;
+}
+
+blockquote {
+  border-left: 4px solid #0f4c81;
+  padding-left: 1rem;
+  color: #475569;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  h1.title {
+    font-size: 2rem;
+  }
+
+  .hero-intro,
+  .profile-card {
+    padding: 1rem;
+  }
+
+  table th,
+  table td {
+    padding: 0.7rem 0.75rem;
+  }
+}
